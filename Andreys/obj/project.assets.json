@@ -5367,11 +5367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Shop Application\\Andreys\\Andreys.csproj",
+      "projectUniqueName": "C:\\repos\\ShopApplication\\Andreys\\Andreys.csproj",
       "projectName": "Andreys",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Shop Application\\Andreys\\Andreys.csproj",
+      "projectPath": "C:\\repos\\ShopApplication\\Andreys\\Andreys.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Shop Application\\Andreys\\obj\\",
+      "outputPath": "C:\\repos\\ShopApplication\\Andreys\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5390,11 +5390,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.HTTP\\SIS.HTTP.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.HTTP\\SIS.HTTP.csproj"
+            "C:\\repos\\ShopApplication\\SIS.HTTP\\SIS.HTTP.csproj": {
+              "projectPath": "C:\\repos\\ShopApplication\\SIS.HTTP\\SIS.HTTP.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+            "C:\\repos\\ShopApplication\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+              "projectPath": "C:\\repos\\ShopApplication\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
             }
           }
         }

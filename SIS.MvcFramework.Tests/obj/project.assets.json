@@ -7052,11 +7052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+      "projectUniqueName": "C:\\repos\\ShopApplication\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
       "projectName": "SIS.MvcFramework.Tests",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+      "projectPath": "C:\\repos\\ShopApplication\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.MvcFramework.Tests\\obj\\",
+      "outputPath": "C:\\repos\\ShopApplication\\SIS.MvcFramework.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7075,8 +7075,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+            "C:\\repos\\ShopApplication\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+              "projectPath": "C:\\repos\\ShopApplication\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
             }
           }
         }

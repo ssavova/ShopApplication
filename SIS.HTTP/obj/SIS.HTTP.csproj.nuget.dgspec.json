@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.HTTP\\SIS.HTTP.csproj": {}
+    "C:\\repos\\ShopApplication\\SIS.HTTP\\SIS.HTTP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.HTTP\\SIS.HTTP.csproj": {
+    "C:\\repos\\ShopApplication\\SIS.HTTP\\SIS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectUniqueName": "C:\\repos\\ShopApplication\\SIS.HTTP\\SIS.HTTP.csproj",
         "projectName": "SIS.HTTP",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectPath": "C:\\repos\\ShopApplication\\SIS.HTTP\\SIS.HTTP.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Shop Application\\SIS.HTTP\\obj\\",
+        "outputPath": "C:\\repos\\ShopApplication\\SIS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
